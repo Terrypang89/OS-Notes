@@ -10,8 +10,6 @@
 
 [RPI linux gpio driver and concepts](http://junyelee.blogspot.com/2020/04/raspberry-pi-gpio-kernel-driver-for.html)
 
-[MQTT Tiếng Việt](https://tapit.vn/giao-thuc-mqtt-uu-diem-va-ung-dung/?fbclid=IwAR04Ykkk7akDecOuujmafr-VCJ-xsq7pOouwaPFANIFXMgtlNNy6MN8vN_4)
-
 [ARM Linux startup](https://people.kernel.org/linusw/)
 
 [QDISC](https://people.kernel.org/dsahern/rss-rps-locking-qdisc)
@@ -23,5 +21,9 @@
 [Debugging an already-probed kernel module (From STM)](https://wiki.st.com/stm32mpu/wiki/Debugging_the_Linux_kernel_using_the_GDB#Debugging_an_already-probed_kernel_module)
 
 [KGDB guide from Elinux](https://elinux.org/Kgdb)
+
+[Openwrt KGDB on x86](https://www.open-mesh.org/doc/open-mesh/Kernel_debugging_with_kgdb.html)
+
+[Basic of gdb](https://www.kernel.org/doc/html/latest/dev-tools/gdb-kernel-debugging.html#:~:text=The%20kernel%20debugger%20kgdb%2C%20hypervisors,simplify%20typical%20kernel%20debugging%20steps.)
 
 git send-email -2 --annotate --thread --chain-reply-to --in-reply-to --in-reply-to "<20210508115237.12515-1-phind.uet@gmail.com>" --to bovang11@gmail.com
