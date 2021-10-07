@@ -22,6 +22,10 @@
 
 [KGDB guide from Elinux](https://elinux.org/Kgdb)
 
+[Openwrt Remote debugging](https://www.0xf8.org/2009/08/openwrt-remote-debugging/)
+
+[Openwrt/LEDE kernel debug with KGDB](https://svenschwermer.de/2016/11/02/debugging-openwrt_lede-kernel.html)
+
 [Openwrt KGDB on x86](https://www.open-mesh.org/doc/open-mesh/Kernel_debugging_with_kgdb.html)
 
 [Basic of gdb](https://www.kernel.org/doc/html/latest/dev-tools/gdb-kernel-debugging.html#:~:text=The%20kernel%20debugger%20kgdb%2C%20hypervisors,simplify%20typical%20kernel%20debugging%20steps.)
