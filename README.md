@@ -31,3 +31,7 @@
 [Basic of gdb](https://www.kernel.org/doc/html/latest/dev-tools/gdb-kernel-debugging.html#:~:text=The%20kernel%20debugger%20kgdb%2C%20hypervisors,simplify%20typical%20kernel%20debugging%20steps.)
 
 git send-email -2 --annotate --thread --chain-reply-to --in-reply-to --in-reply-to "<20210508115237.12515-1-phind.uet@gmail.com>" --to bovang11@gmail.com
+
+[solve openwrt library issue](http://m.blog.chinaunix.net/uid-20680966-id-5833778.html)
+
+[solve another openwrt library issue](https://www.litreily.top/2021/02/07/qsdk-compile/)
