@@ -1,4 +1,5 @@
 # OS-Notes
+[link to github guide](https://guides.github.com/features/mastering-markdown/)
 
 [link to Google!](http://google.com)
 
