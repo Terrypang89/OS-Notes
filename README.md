@@ -37,5 +37,8 @@ git send-email -2 --annotate --thread --chain-reply-to --in-reply-to --in-reply-
 
 [solve common openwrt library issue2](https://www.litreily.top/2021/02/07/qsdk-compile/)
 
+[solve openwrt Makefile *** missing separator. Stop.](https://stackoverflow.com/questions/16931770/makefile4-missing-separator-stop)
+- [x] cat -e -t -v Makefile
+
 [linux flash newbie](https://www.coresecurity.com/core-labs/articles/linux-flash-newbies-how-linux-works-flash)
 
