@@ -42,3 +42,4 @@ git send-email -2 --annotate --thread --chain-reply-to --in-reply-to --in-reply-
 
 [linux flash newbie](https://www.coresecurity.com/core-labs/articles/linux-flash-newbies-how-linux-works-flash)
 
+[PCIE pinout](https://pinoutguide.com/Slots/mini_pcie_pinout.shtml)
