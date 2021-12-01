@@ -45,3 +45,9 @@ git send-email -2 --annotate --thread --chain-reply-to --in-reply-to --in-reply-
 [PCIE pinout](https://pinoutguide.com/Slots/mini_pcie_pinout.shtml)
 
 [M.2 pinout](https://pinoutguide.com/HD/M.2_NGFF_connector_pinout.shtml)
+
+[QSDK spf11.4 csu2 error](https://github.com/Terrypang89/OS-Notes/blob/master/test1.png)
+- [x] [ram wrong value or defined ram higher than origin ram, solve by redude ram]
+
+[QSDK spf11.4 csu2 error](https://github.com/Terrypang89/OS-Notes/blob/master/test.png)
+- [x] [solve by point to right board_data]
